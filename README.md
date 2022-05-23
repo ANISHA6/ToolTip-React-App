@@ -1,3 +1,11 @@
+# TooLTip-Project
+#### Tech stack: React
+##### Created simple tooltip component.
+###### I have added following features in this project:----
+- On hovering of the button , It will show a tooltip.
+- The component will receive the ‘position‘ of tooltip as prop. 
+- position is at the bottom. We can pass options : “top”, “bottom”, “right”, “left”
+- According to the position the tooltip will render at that position.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
